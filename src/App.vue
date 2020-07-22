@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <div class="number">{{major}}</div>:<div class="number">{{minor}}</div>:<div class="number">{{patch}}</div>
+    <div class="number">{{major}}</div>.<div class="number">{{minor}}</div>.<div class="number">{{patch}}</div>
   </div>
 </template>
 
